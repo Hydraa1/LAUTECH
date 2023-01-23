@@ -1,0 +1,801 @@
+*{
+    margin:0;
+	padding:0;
+    background: 100%;
+}
+.image{
+    height: 100px;
+    width: 140px
+    
+}
+.img{
+    margin: 50px 540px;
+    margin-bottom: -110px;
+}
+h1{
+    color: orange;
+    font-family: Sans-serif;
+    font-size: 25px;
+    margin-top: 210px;
+    margin-left: 70px;
+    text-align: left;
+    
+    
+}
+.lol{
+    color: 6666CC;
+    font-family: Sans-serif;
+    font-size: 17px;
+    margin:14px 70px;
+    
+    
+    
+}
+.hey{
+    letter-spacing: 0.1px;
+    word-spacing: 17px;
+}
+.yeh{
+    letter-spacing: -0.2px;
+    word-spacing: 13px
+}
+.eyh{
+    letter-spacing: 0.1px;
+    word-spacing: 9px
+}
+.bay{
+    color: 6666CC;
+    font-family: Sans-serif;
+    font-size: 17px;
+    margin:23px 70px;
+    letter-spacing: 0.2px;
+    word-spacing: 12px
+    
+    
+}
+.ayb{
+    color: 6666CC;
+    font-family: Sans-serif;
+    font-size: 17px;
+    margin:15px 70px;
+    letter-spacing: 0.1px;
+    word-spacing: 5px
+   
+}
+.yab{
+    color: 3300FF;
+    text-decoration: none;
+    font-size: 13px ;
+    letter-spacing: -0.3;
+    word-spacing: -1px;
+    
+}
+.yab:hover{
+    color: 330066;
+}
+.ahh{
+    font-family: Sans-serif;
+    color: 6666CC;
+    margin: 15px 70px;
+    font-size: 17px;
+    word-spacing: 4px;
+
+}
+.ohh{
+    color: red;
+}
+.hoh{
+    color: 3300FF;
+
+}
+.bhh{
+    text-decoration: none;
+
+}
+.hoh:hover{
+    color: 330066;
+}
+.hmm{
+    font-family: Sans-serif;
+    
+    margin: 15px 70px;
+    font-size: 15px;
+    word-spacing: 5px;
+    letter-spacing: 0.5;
+
+}
+.mmh{
+    text-decoration: none;
+    color: 3300FF;
+}
+.mmh:hover{
+    color: 330066;
+}
+.goal{
+    display: flex;
+    margin: 27px 85px;
+}
+.boy{
+	width:fit-content;
+	font-family:sans-serif;
+}
+.yob{
+    background: orangered;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top:25px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 25px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.oob{
+    color: 6666CC;
+    text-align: center;
+    font-size: 22px;
+    padding-top:28px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 2.6px;
+}
+.bis{
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    padding-top:20px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 1.3px;
+    word-spacing: 2.7px;
+
+}
+.sib{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 2px;
+    margin-left: -17px;
+}
+.bam{
+    color: 3333FF;
+    text-decoration: none;
+
+}
+.bam:hover{
+    color: 3399CC;
+}
+.isb{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 1.5px;
+    margin-left: -15px;
+}
+.amb{
+    color: aliceblue;
+    text-decoration: none;
+    background: rgb(91, 224, 91);
+    padding-top:10px ;
+    padding-left: 10px ;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid rgb(91, 224, 91);
+    border-radius: 8px;
+}
+.amb:hover{
+    color: white;
+    border: solid rgb(6, 63, 6);
+    background: rgb(6, 63, 6);
+
+}
+.dav{
+	width:fit-content;
+	font-family:sans-serif;
+    margin-left: 50px;
+
+}
+.vid{
+    background: orangered;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top:25px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 25px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.avd{
+    color: 6666CC;
+    text-align: center;
+    font-size: 22px;
+    padding-top:28px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 2.6px;
+}
+.dva{
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    padding-top:20px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 1.3px;
+    word-spacing: 2.7px;
+
+}
+.vda{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 2px;
+    margin-left: -17px;
+}
+.ooo{
+    color: 3333FF;
+    text-decoration: none;
+
+}
+.ooo:hover{
+    color: 3399CC;
+}
+.adv{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 1.5px;
+    margin-left: -15px;
+}
+.aaa{
+    color: aliceblue;
+    text-decoration: none;
+    background: rgb(91, 224, 91);
+    padding-top:10px ;
+    padding-left: 10px ;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid rgb(91, 224, 91);
+    border-radius: 8px;
+}
+.aaa:hover{
+    color: white;
+    border: solid rgb(6, 63, 6);
+    background: rgb(6, 63, 6);
+
+}
+.tit{
+	width:fit-content;
+	font-family:sans-serif;
+    margin-left: 50px;
+}
+.itt{
+    background: orangered;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top:25px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 25px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.ggg{
+    padding-top: 5px;
+
+}
+.lll{
+    padding-top: 5px;
+}
+.nnn{
+    color: 6666CC;
+    text-align: center;
+    font-size: 22px;
+    padding-top:28px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 2.6px;
+}
+.mmm{
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    padding-top:20px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 1.3px;
+    word-spacing: 2.7px;
+
+}
+.xxx{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 2px;
+    margin-left: -17px;
+}
+.ccc{
+    color: 3333FF;
+    text-decoration: none;
+
+}
+.ccc:hover{
+    color: 3399CC;
+}
+.zzz{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 1.5px;
+    margin-left: -15px;
+}
+.ddd{
+    color: aliceblue;
+    text-decoration: none;
+    background: red;
+    padding-top:10px ;
+    padding-left: 10px ;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid red;
+    border-radius: 8px;
+}
+.ddd:hover{
+    color: white;
+    border: solid rgb(46, 8, 8);
+    background: rgb(46, 8, 8);
+
+}
+.kil{
+	width:fit-content;
+	font-family:sans-serif;
+    margin-left: 50px;
+}
+.vvv{
+    background: orangered;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top:25px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 25px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.jjj{
+    color: 6666CC;
+    text-align: center;
+    font-size: 22px;
+    padding-top:28px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 2.6px;
+}
+.bab{
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    padding-top:20px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 1.3px;
+    word-spacing: 2.7px;
+
+}
+.bba{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 2px;
+    margin-left: -17px;
+}
+.eee{
+    color: 3333FF;
+    text-decoration: none;
+
+}
+.eee:hover{
+    color: 3399CC;
+}
+.ssa{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 1.5px;
+    margin-left: -15px;
+}
+.fff{
+    color: aliceblue;
+    text-decoration: none;
+    background: red;
+    padding-top:10px ;
+    padding-left: 10px ;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid red;
+    border-radius: 8px;
+}
+.fff:hover{
+    color: white;
+    border: solid rgb(46, 8, 8);
+    background: rgb(46, 8, 8);
+
+}
+
+.we{
+	width:fit-content;
+	font-family:sans-serif;
+    margin-left: 950px;
+    margin-top: -50px;
+    display: block;
+}
+.ve{
+    background: orangered;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top:25px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 25px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.je{
+    color: 6666CC;
+    text-align: center;
+    font-size: 22px;
+    padding-top:28px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 2.6px;
+}
+.be{
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    padding-top:20px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 1.3px;
+    word-spacing: 2.7px;
+
+}
+.qe{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 2px;
+    margin-left: -17px;
+}
+.pe{
+    color: 3333FF;
+    text-decoration: none;
+
+}
+.pe:hover{
+    color: 3399CC;
+}
+.xe{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 1.5px;
+    margin-left: -15px;
+}
+.me{
+    color: aliceblue;
+    text-decoration: none;
+    background: red;
+    padding-top:10px ;
+    padding-left: 10px ;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid red;
+    border-radius: 8px;
+}
+.me:hover{
+    color: white;
+    border: solid rgb(46, 8, 8);
+    background: rgb(46, 8, 8);
+
+}
+.kick{
+    display: flex;
+    margin: 10px 85px;
+}
+.ew{
+	width:fit-content;
+	font-family:sans-serif;
+}
+.ev{
+    background: orangered;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top:25px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 25px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.ej{
+    color: 6666CC;
+    text-align: center;
+    font-size: 22px;
+    padding-top:28px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 2.6px;
+}
+.eb{
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    padding-top:20px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 1.3px;
+    word-spacing: 2.7px;
+
+}
+.eq{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 2px;
+    margin-left: -17px;
+}
+.ep{
+    color: 3333FF;
+    text-decoration: none;
+
+}
+.ep:hover{
+    color: 3399CC;
+}
+.ex{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 1.5px;
+    margin-left: -15px;
+}
+.em{
+    color: aliceblue;
+    text-decoration: none;
+    background: red;
+    padding-top:10px ;
+    padding-left: 10px ;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid red;
+    border-radius: 8px;
+}
+.em:hover{
+    color: white;
+    border: solid rgb(46, 8, 8);
+    background: rgb(46, 8, 8);
+
+}
+.weo{
+	width:fit-content;
+	font-family:sans-serif;
+    margin-left: 50px;
+}
+.veo{
+    background: orangered;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top:25px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 25px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.teo{
+    padding-top: 3px;
+}
+.jeo{
+    color: 6666CC;
+    text-align: center;
+    font-size: 22px;
+    padding-top:28px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 2.6px;
+}
+.beo{
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    padding-top:20px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 1.3px;
+    word-spacing: 2.7px;
+
+}
+.qeo{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 2px;
+    margin-left: -17px;
+}
+.peo{
+    color: 3333FF;
+    text-decoration: none;
+
+}
+.peo:hover{
+    color: 3399CC;
+}
+.xeo{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px ;
+    padding-left: 14px ;
+    padding-right: 14px;
+    padding-bottom: 35px;
+    letter-spacing: 0.2px;
+    word-spacing: 1.5px;
+    margin-left: -15px;
+}
+.meo{
+    color: aliceblue;
+    text-decoration: none;
+    background: red;
+    padding-top:10px ;
+    padding-left: 10px ;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid red;
+    border-radius: 8px;
+}
+.meo:hover{
+    color: white;
+    border: solid rgb(46, 8, 8);
+    background: rgb(46, 8, 8);
+
+}
+.tasl{
+    margin: 80px 310px;
+}
+.last{
+    font-family: sans-serif;
+    font-size: 20;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: orange;
+}
+.last:hover{
+    color: orangered;
+}
+.beam{
+    color: 3366CC;
+    font-family: sans-serif;
+    font-size: 18px;
+    padding-bottom: 200px;
+    margin: -60px 0px;
+    margin-left: 85px;
+    word-spacing: 9px;
+    letter-spacing: 0.3px;
+}
+.meab{
+    color: blue;
+    text-decoration: none;
+    word-spacing: -1px;
+    letter-spacing: -0.2;
+    font-size: 16px;
+}
+.meab:hover{
+    color: rgb(8, 8, 70);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
